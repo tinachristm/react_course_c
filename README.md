@@ -1,1 +1,1 @@
-# react_course_c
+# go version
